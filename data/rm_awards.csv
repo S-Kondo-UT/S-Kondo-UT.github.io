@@ -1,0 +1,9 @@
+﻿awards
+アクション名,アクションタイプ,類似業績マージ優先度,ID,賞名(日本語),賞名(英語),受賞者・グループ(日本語),受賞者・グループ(英語),タイトル(日本語),タイトル(英語),授与機関(日本語),授与機関(英語),概要(日本語),概要(英語),受賞年月,受賞区分,受賞国・地域,URL,主要な業績かどうか,公開の有無
+insert,merge,null,50222266,"第44回日本セラミックス協会学術写真賞 優秀賞","44th Ceramographic Award",null,null,null,null,日本セラミックス協会,"The Ceramic Society of Japan",null,null,2019-11,null,null,null,false,disclosed
+insert,merge,null,50222258,"Best Presentation Award","Best Presentation Award",null,null,null,null,"70th Annual Meeting of the Nordic Microscopic Society (SCANDEM 2019)","70th Annual Meeting of the Nordic Microscopic Society (SCANDEM 2019)",null,null,2019,null,null,null,false,disclosed
+insert,merge,null,50222272,"第41回日本セラミックス協会学術写真賞 優秀賞","41st Ceramographic Award",null,null,null,null,日本セラミックス協会,"The Ceramic Society of Japan",null,null,2016-05,null,null,null,false,disclosed
+insert,merge,null,50222278,最優秀発表賞,null,null,null,null,null,第15回結晶界面工学研究会,null,null,null,2015-07,null,null,null,false,disclosed
+insert,merge,null,50222281,優秀発表賞,null,null,null,null,null,第14回結晶界面工学研究会,null,null,null,2014-09,null,null,null,false,disclosed
+insert,merge,null,50222286,平成26年度増本賞銀賞,null,null,null,null,null,新学術領域「ナノ構造情報」,null,null,null,2014-07,null,null,null,false,disclosed
+insert,merge,null,50222289,"Best Poster Award","Best Poster Award",null,null,null,null,"International Symposium on Strength of Fine Grained Materials","International Symposium on Strength of Fine Grained Materials",null,null,2013-07,null,null,null,false,disclosed
