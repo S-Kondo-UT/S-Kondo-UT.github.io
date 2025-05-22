@@ -1,0 +1,52 @@
+[
+  {
+    "id": "career-1",
+    "position": "Ph.D. (JSPS DC1)",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2013",
+    "endDate": "2016",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-2",
+    "position": "Postdoctoral Researcher",
+    "organization": "Kyoto University",
+    "location": "Tokyo, Japan",
+    "startDate": "2016",
+    "endDate": "2018",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-3",
+    "position": "Project Assistant Professor",
+    "organization": "Kyoto University",
+    "location": "Tokyo, Japan",
+    "startDate": "2018",
+    "endDate": "2019",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-4",
+    "position": "JSPS Overseas Research Fellowships",
+    "organization": "Chalmers University of Technology",
+    "location": "Gothenburg, Sweden",
+    "startDate": "2019",
+    "endDate": "2021",
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-5",
+    "position": "Assistant Professor",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2021",
+    "endDate": null,
+    "description": "",
+    "type": "work"
+  }
+]
